@@ -5,5 +5,5 @@ declared-services:
 applications:
 - services:
   - insights-weather-weatherinsights
-  name: insights-weather
+  name: WawaWeather01
   memory: 256M
